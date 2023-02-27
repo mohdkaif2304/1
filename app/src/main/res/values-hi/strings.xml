@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">न्यूज़टुडेटाइम्स</string>
+    <string name="news_feed">समाचार फ़ीड</string>
+    <string name="mic_desc" translatable="false">खोज के लिए माइक</string>
+    <string name="day">दिन</string>
+    <string name="pressure">दबाव</string>
+    <string name="wind">हवा</string>
+    <string name="humidity">नमी</string>
+    <string name="enter_city_name">शहर का नाम दर्ज करें</string>
+    <string name="updated_at">पर अद्यतन किया गया</string>
+    <string name="monday">सोमवार</string>
+    <string name="tuesday">मंगलवार</string>
+    <string name="wednesday">बुधवार</string>
+    <string name="thursday">गुरुवार</string>
+    <string name="friday">शुक्रवार</string>
+    <string name="saturday">शनिवार</string>
+    <string name="sunday">रविवार</string>
+    <string name="home">घर</string>
+    <string name="sports">खेल</string>
+    <string name="science">विज्ञान</string>
+    <string name="technology">तकनीकी</string>
+    <string name="health">स्वास्थ्य</string>
+    <string name="entertainment">मनोरंजन</string>
+    <string name="weather">मौसम पूर्वानुमान</string>
+
+</resources>

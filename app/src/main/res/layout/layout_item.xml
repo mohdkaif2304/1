@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="275dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#E61313"
+    >
+
+<androidx.cardview.widget.CardView
+    android:id="@+id/cardView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:elevation="12dp"
+    app:cardCornerRadius="10dp"
+    android:padding="10dp"
+    android:layout_margin="2dp"
+    style="@style/SCREEN"
+    android:outlineSpotShadowColor="#B8B0B0"
+    android:outlineAmbientShadowColor="#7F7878" >
+
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:orientation="vertical" >
+
+      <TextView
+          android:id="@+id/mainHeading"
+          android:layout_width="match_parent"
+          android:layout_height="60dp"
+          android:layout_margin="10dp"
+          android:textSize="20sp"
+          android:textStyle="bold"
+          android:text="Main heading Display"
+          android:textColor="@color/black"
+          android:padding="5dp"
+          android:ellipsize="end"
+          android:maxLines="2"
+
+          />
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="130dp"
+          android:layout_marginTop="10dp"
+          android:orientation="horizontal"
+          >
+
+          <TextView
+              android:id="@+id/content"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:layout_weight="1"
+              android:layout_margin="10dp"
+              android:textSize="15sp"
+              android:textStyle="bold"
+              style="@style/TEXT"
+              android:text="Main heading Display"
+              android:padding="5dp"
+              android:ellipsize="end"
+              android:maxLines="6"
+
+              />
+<ImageView
+    android:id="@+id/imageView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp"
+    android:layout_weight="1"
+    android:scaleType="centerCrop"
+    />
+
+      </LinearLayout>
+
+     <TextView
+         android:id="@+id/author"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:textColor="#EF1606"
+         android:padding="5dp"
+         android:textSize="13sp"
+         android:text="Author Name "
+         android:textStyle="italic"
+         />
+      <TextView
+          android:id="@+id/time"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:textStyle="bold"
+          android:layout_weight="1"
+          android:textColor="@color/black"
+          android:text="Published At"
+
+          />
+
+  </LinearLayout>
+
+</androidx.cardview.widget.CardView>
+</RelativeLayout>

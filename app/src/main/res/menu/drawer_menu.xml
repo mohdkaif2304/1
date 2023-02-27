@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <!--Contains names of all Fragments-->
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/item_drawer_language"
+            android:icon="@drawable/ic_baseline_language_24"
+            android:title="Language" />
+
+        <item
+            android:id="@+id/item_drawer_weather"
+            android:icon="@drawable/broken_clouds"
+            android:title="Weather Forcast" />
+
+        <item
+            android:id="@+id/item_drawer_share"
+            android:icon="@drawable/ic_baseline_share_24"
+            android:title="Share" />
+
+        <item
+            android:id="@+id/item_drawer_aboutUs"
+            android:icon="@drawable/ic_about_us"
+            android:title="Aboout Us" />
+
+    </group>
+
+</menu>

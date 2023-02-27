@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">NewsTodayTimes</string>
+    <string name="news_feed">NEWS FEED</string>
+    <string name="mic_desc">mic for search</string>
+    <string name="day">day</string>
+    <string name="pressure">PRESSURE</string>
+    <string name="wind">WIND</string>
+    <string name="humidity">HUMIDITY</string>
+    <string name="enter_city_name">ENTER CITY NAME</string>
+    <string name="updated_at">UPDATED AT</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="home">Home</string>
+    <string name="sports">Sports</string>
+    <string name="science">Science</string>
+    <string name="technology">Technology</string>
+    <string name="health">Health</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="weather">Weather Forcast</string>
+    <string name="nav_open">open</string>
+    <string name="nav_close">close</string>
+
+</resources>
