@@ -10,11 +10,11 @@ public static final String API_KEY = "YOUR-API-KEY";
 
 ## SCREENSHOTS 
 ![Screenshot 2024-03-26 115125](https://github.com/mohdkaif2304/NewsTodayTimes/assets/118160035/b8b81131-9267-421b-9090-d7236d56e3e5)
+![Screenshot 2024-03-26 115203](https://github.com/mohdkaif2304/NewsTodayTimes/assets/118160035/b1de5f5a-64df-4392-b608-87e08f472cb2)
+![Screenshot 2024-03-26 115152](https://github.com/mohdkaif2304/NewsTodayTimes/assets/118160035/7313557a-83d8-46e3-a3f4-40fc9c9760ca)
 ![Screenshot 2024-03-26 115329](https://github.com/mohdkaif2304/NewsTodayTimes/assets/118160035/ec33255a-99c1-4d38-bfd8-7ef7699be5ce)
 ![Screenshot 2024-03-26 115252](https://github.com/mohdkaif2304/NewsTodayTimes/assets/118160035/385ba8e2-5992-4b2b-8b34-e7f68ce2dac9)
 ![Screenshot 2024-03-26 115237](https://github.com/mohdkaif2304/NewsTodayTimes/assets/118160035/374348cd-62db-4570-998c-fd44c90d06fa)
-![Screenshot 2024-03-26 115203](https://github.com/mohdkaif2304/NewsTodayTimes/assets/118160035/b1de5f5a-64df-4392-b608-87e08f472cb2)
-![Screenshot 2024-03-26 115152](https://github.com/mohdkaif2304/NewsTodayTimes/assets/118160035/7313557a-83d8-46e3-a3f4-40fc9c9760ca)
 
 ## Features
 Navigation Drawer
