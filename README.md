@@ -1,8 +1,8 @@
 ## News App
-Project as a part of Android Basics Nanodegree at Udacity
+This news application has been developed utilizing Retrofit, a third-party library. Additionally, I've seamlessly integrated a weather application within it, allowing users to search for their city's current weather using voice commands or typing. Through the creation of this application, I've acquired a plethora of Android-related skills, as outlined in the features below.
 
 ## Project Overview
-The goal is to create a News Feed app which gives a user regularly-updated news from the internet related to a particular topic, person, or location. In this project, use Guardian API. This is a well-maintained API which returns information in a JSON format.
+The goal is to create a News Feed app which gives a user regularly-updated news from the internet related to a particular topic, person, or location. In this project, use [Guardian API](https://newsapi.org/). This is a well-maintained API which returns information in a JSON format.
 
 ## API Key Note
 You need to insert your API key. Go to a file named Constants.java and find the value of API_KEY. Replace "test" with "YOUR-API-KEY".
